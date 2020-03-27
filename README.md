@@ -1,2 +1,2 @@
-# Microcosm-experiment-disturbance-and-immigration-effects
-Results from an experiment microcosm testing the hypothesis that disturbance associated with low immigration rates decreases abundance and species richness, whereas disturbance associated with high immigration results in a more abundant, rich and evenly distributed assemblage
+# Microcosm experiment: Effects of disturbance and immigration events in free-living marine nematodes.
+Results from a microcosm experiment in which nematode assemblages were subjected to different regimes of disturbance and immigration. We tested thehypothesis that disturbance associated with low immigration rates decreases abundance and species richness, whereas disturbance associated with high immigration results in a more abundant, rich and evenly distributed assemblage.
